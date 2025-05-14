@@ -1,0 +1,13 @@
+name = "Coalition of Chaos"
+author = "Kavis"
+version = "0.0.3"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1e1b5b7fdfb6d0bbca3de032aef7d6d7b1df13f2caf28b5b0e5bb55aedaf0384"
+
+[versions]
+forge = "47.4.0"
+minecraft = "1.20.1"
