@@ -1251,6 +1251,11 @@ hash = "47750d3e377b6a4c41e5b96705fabd28aba4491831dd70bb7d1cbeabc767f129"
 metafile = true
 
 [[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "318a137293d0919ddeb5e25c3facd5bc83de60366ac6cd5707d28ee650330f62"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "8e7de616ed5eaba305502d2b7711b7e38353f6e7bcbf3dabd97565a2e7bdca73"
 metafile = true
@@ -1302,7 +1307,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
-hash = "d0756688d21868a5c64aff08fa8fe325adaaf237feafb25f7e42c432b176206c"
+hash = "ef36622697006373e3a817bf36dd7baf87a8913ffc42eb86632d9d56b60e6cd4"
 metafile = true
 
 [[files]]
@@ -1482,7 +1487,7 @@ metafile = true
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
-hash = "bd231c766e25e2f3a5fbfa7e7b8ade2536fed16c3a5574dc30b212dc51a75044"
+hash = "8d3e9ef52ac3b65fb976629b55652ca30f9ad8b7ff37925c3111ae78386e1a97"
 metafile = true
 
 [[files]]
