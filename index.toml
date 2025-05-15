@@ -1709,7 +1709,3 @@ metafile = true
 file = "mods/zerocore.pw.toml"
 hash = "b7a292c2f1505290e694c1083417984286d34cff09497cd00f78aadfbacff89f"
 metafile = true
-
-[[files]]
-file = "update.bat"
-hash = "a27377dcffe7769af634c336cb9e80e6648fca30a4f9076c88822880ddd1c505"
