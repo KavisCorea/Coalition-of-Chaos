@@ -1,0 +1,13 @@
+name = "Spice of Life: Apple Pie Edition"
+filename = "solapplepie-1.20.1-2.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/u1aDdOsQ/versions/KI7f8OkE/solapplepie-1.20.1-2.3.0.jar"
+hash-format = "sha512"
+hash = "8da054a5f7578841413f90d64dbbe715c712c5042ea796fff52a9c754192cdcf59480900a368d86a3d99a1f68e7ed0b36b52e092dbedff3fd709bfa539b23aaf"
+
+[update]
+[update.modrinth]
+mod-id = "u1aDdOsQ"
+version = "KI7f8OkE"

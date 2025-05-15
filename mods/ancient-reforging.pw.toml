@@ -1,0 +1,13 @@
+name = "Ancient Reforging"
+filename = "ancientreforging-1.2.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/S8F0jey8/versions/r0glvdy8/ancientreforging-1.2.3.jar"
+hash-format = "sha512"
+hash = "beb69b3b2d94dc4b74a104face0ac3d01a93d331f0c9a588f8547409685e8b23d8420d07a347b6aa0510369bd3808b6a17f210cbbb58365d33b57f4ac34bd4e8"
+
+[update]
+[update.modrinth]
+mod-id = "S8F0jey8"
+version = "r0glvdy8"

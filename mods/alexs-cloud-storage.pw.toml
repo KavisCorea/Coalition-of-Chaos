@@ -1,0 +1,13 @@
+name = "Cloud Storage"
+filename = "cloudstorage-1.4.0-1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZiATPR3I/versions/RdcFsm0S/cloudstorage-1.4.0-1.20.jar"
+hash-format = "sha512"
+hash = "408d4d54297a957bcb15547233bc26156a0376ddd539830b791d43fdd6a8014b26a206ff5f7f45b7ec712c73b96d5b2a521ee72b65c84310d49c7b15e0b47b14"
+
+[update]
+[update.modrinth]
+mod-id = "ZiATPR3I"
+version = "RdcFsm0S"

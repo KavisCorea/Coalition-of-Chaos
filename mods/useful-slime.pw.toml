@@ -1,0 +1,13 @@
+name = "Useful Slime"
+filename = "UsefulSlime-forge-1.20.1-1.8.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CzM6C1W0/versions/lfj2AZFK/UsefulSlime-forge-1.20.1-1.8.1.jar"
+hash-format = "sha512"
+hash = "03ff9e23020809eb4069390bf8a224b0ed76a5d5cf7465fa90357093ebe2ae7e01238dc09808d4f924eedc62dd5ef1eea22c5057e442259d31a80276b20264ce"
+
+[update]
+[update.modrinth]
+mod-id = "CzM6C1W0"
+version = "lfj2AZFK"

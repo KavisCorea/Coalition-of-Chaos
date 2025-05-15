@@ -1,0 +1,13 @@
+name = "TugkanDeMan's Weaponry"
+filename = "twm-1.12.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9e6bbcc53907f49677809dfdf3862e66f46322d6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4679633
+project-id = 829888

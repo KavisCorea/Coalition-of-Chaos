@@ -1,0 +1,13 @@
+name = "AE2 QoL Recipes"
+filename = "ae2qolrecipes-forge-1.18-1.20.1-1.3.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/K7VSm2YY/versions/YWeJBhEc/ae2qolrecipes-forge-1.18-1.20.1-1.3.0.jar"
+hash-format = "sha512"
+hash = "f512cabd82c37436c7e2f5651040a7229f36bb8e382f3c59cd172ae180ff45930e92659811d51d70be647ba48e681645c0c762045cfa43b942829f630840a62f"
+
+[update]
+[update.modrinth]
+mod-id = "K7VSm2YY"
+version = "YWeJBhEc"

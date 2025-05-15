@@ -1,0 +1,13 @@
+name = "Additional Attributes"
+filename = "additional_attributes-1.20.1-1.3.5-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/z7dzpcw6/versions/uphyi3EL/additional_attributes-1.20.1-1.3.5-all.jar"
+hash-format = "sha512"
+hash = "10fc2932bfed9c49108f71d1e0c4bb7dc7e42d938ddb19a6d584875c2fdc43822f2131ed37a67bcb60479a2c831eef7fab9de97d83ac65f7b78da5fe3914a391"
+
+[update]
+[update.modrinth]
+mod-id = "z7dzpcw6"
+version = "uphyi3EL"

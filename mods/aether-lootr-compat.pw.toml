@@ -1,0 +1,13 @@
+name = "Aether Lootr Compat"
+filename = "zoomers_aether_compat_forge-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9062ebf50dc6759ebb805fc29bef2b5f803d0379"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5668439
+project-id = 1091889

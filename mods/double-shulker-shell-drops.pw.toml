@@ -1,0 +1,13 @@
+name = "Double Shulker Shell Drops"
+filename = "double-shulker-shell-drops-1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZXtLZIEN/versions/RECZSKhH/double-shulker-shell-drops-1.jar"
+hash-format = "sha512"
+hash = "c02f0d5c9638130fb80a3800a84741a193fbddaa5b03e50c66448738a77c2d4f88c4432943e7bd8e0f76bd8dd9f452e8a134f5cf6e131a94a1bda61cfaa74975"
+
+[update]
+[update.modrinth]
+mod-id = "ZXtLZIEN"
+version = "RECZSKhH"

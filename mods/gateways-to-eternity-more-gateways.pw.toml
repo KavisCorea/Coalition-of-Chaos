@@ -1,0 +1,13 @@
+name = "Gateways to Eternity - More Gateways"
+filename = "gateways_to_eternity_mg-1.1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/dG9Idg6X/versions/5wV6Yv3q/gateways_to_eternity_mg-1.1.0.jar"
+hash-format = "sha512"
+hash = "b869cbd43f39d0439756a6f0ddc5cc71c9788881ce2a04502881e94647957337e9d7edff23313ddfdd6b3ee91222058a60688ddc3db7d25ce87675534cc86afc"
+
+[update]
+[update.modrinth]
+mod-id = "dG9Idg6X"
+version = "5wV6Yv3q"

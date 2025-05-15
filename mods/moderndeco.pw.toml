@@ -1,0 +1,13 @@
+name = "ModernDeco"
+filename = "moderndeco-3.7.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zJ5aaMEg/versions/YVajEMk9/moderndeco-3.7.0-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "8216b331545706aca07e8a2df21c93077e6e31c4466a6dbb307c6812646cfaaca8c0aeb329a9a5ce4d51bf9b26777059dba1c30c0dd59130259ad2ccd5808add"
+
+[update]
+[update.modrinth]
+mod-id = "zJ5aaMEg"
+version = "YVajEMk9"

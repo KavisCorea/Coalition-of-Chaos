@@ -1,0 +1,13 @@
+name = "Applied Web Terminal"
+filename = "appwebterminal-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/StQbiBuW/versions/b8Pmf2OX/appwebterminal-1.2.1.jar"
+hash-format = "sha512"
+hash = "94fe6ee2e31aa6053da4b500410bc225bc463ed71296e70e63a07fe24b4c645c13ee6426165516fdc8e731382f093d1007aee407ae3818ddf28a6bb4aed20cb1"
+
+[update]
+[update.modrinth]
+mod-id = "StQbiBuW"
+version = "b8Pmf2OX"

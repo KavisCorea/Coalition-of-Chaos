@@ -1,0 +1,13 @@
+name = "Symbols 'n' Stuff"
+filename = "symbols_n_stuff-0.1.2+1.20.1+forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/itOw2agq/versions/l3EWjHbD/symbols_n_stuff-0.1.2%2B1.20.1%2Bforge.jar"
+hash-format = "sha512"
+hash = "b2aca82f6be8a44f8d6c764b808de45fec748f6a4ca3988bac03984e9f2335d9bde151115c75398e13e81ca4ec56c815d031c6ee1c6a0a9f8474d806bbec9a57"
+
+[update]
+[update.modrinth]
+mod-id = "itOw2agq"
+version = "l3EWjHbD"

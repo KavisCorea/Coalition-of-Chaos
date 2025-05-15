@@ -1,0 +1,13 @@
+name = "Hud Texts"
+filename = "hud_texts_v3.2_1.20.1_[FORGE].jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sgFIOK5w/versions/efxGc9E1/hud_texts_v3.2_1.20.1_%5BFORGE%5D.jar"
+hash-format = "sha512"
+hash = "19b779194cf9764973138cdc148fd90c404ff43336eca7be5d3420ce813d2a6c97306d76d5507cf2a72624f5cce610db0283a178354628412d0ccc99fb72ef87"
+
+[update]
+[update.modrinth]
+mod-id = "sgFIOK5w"
+version = "efxGc9E1"

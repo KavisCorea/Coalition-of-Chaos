@@ -1,0 +1,13 @@
+name = "Loot Journal"
+filename = "loot_journal-forge-1.20.1-4.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OJ6ZYz5L/versions/AUvLs2Ti/loot_journal-forge-1.20.1-4.0.2.jar"
+hash-format = "sha512"
+hash = "326a9831d1c9af0501b2834dc8bb0b923209df6b00507422855871eecac6eb4753db26a1e8c183ccd26d678500ba38a951eda4d8e0098eedeba440bf0a83314a"
+
+[update]
+[update.modrinth]
+mod-id = "OJ6ZYz5L"
+version = "AUvLs2Ti"

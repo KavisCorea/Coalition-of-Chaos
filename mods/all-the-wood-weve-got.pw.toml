@@ -1,0 +1,13 @@
+name = "All The Wood We've Got"
+filename = "All-The-Wood-Weve-Got-Forge-1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dee2f6ddc1dd8e9753fd16f581c809ddd777929d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6249815
+project-id = 1138171

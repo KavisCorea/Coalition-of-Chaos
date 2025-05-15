@@ -1,0 +1,13 @@
+name = "Death Counter"
+filename = "death_counter_v2.1_1.20.1_[FORGE].jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/i0c8eDuu/versions/Bk8u7vRy/death_counter_v2.1_1.20.1_%5BFORGE%5D.jar"
+hash-format = "sha512"
+hash = "9ed66685e979cdf20f2ebda5adb7e089d12415d456396b62277879ce5f93d8c2a4160a9d3cbf060a4a2cc0b8d2891529611dd4b1cf6f774bd15e9f43bddcbf5f"
+
+[update]
+[update.modrinth]
+mod-id = "i0c8eDuu"
+version = "Bk8u7vRy"

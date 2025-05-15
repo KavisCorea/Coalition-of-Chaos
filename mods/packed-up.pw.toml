@@ -1,0 +1,13 @@
+name = "Packed Up - A Farmer's Delight Addon"
+filename = "packedup-0.5.4-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/opsrwaeY/versions/eifP29Wj/packedup-0.5.4-beta.jar"
+hash-format = "sha512"
+hash = "438cf5705841f19c6811d8d0d8a5d3cfeae3bcaaf1096ac440fd0f5bdd64a25914f490439dec205d196257c59bf676a74fcc444a8b8323dc82abe7c84678a2c4"
+
+[update]
+[update.modrinth]
+mod-id = "opsrwaeY"
+version = "eifP29Wj"

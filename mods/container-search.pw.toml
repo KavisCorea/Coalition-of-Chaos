@@ -1,0 +1,13 @@
+name = "Container Search"
+filename = "ContainerSearch-1.0.0-Forge-1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/quToUcuJ/versions/BzRYOX7c/ContainerSearch-1.0.0-Forge-1.20.jar"
+hash-format = "sha512"
+hash = "4c91fd2e6b8b33a0a21c5ef89c6f2a8b6ae4f3021b903c045e1c0a6360f9ba9d9b0f79b985d362f8c7ed7ad1ada6b613e0dc5dea505db956ee81cb5dfb61b64c"
+
+[update]
+[update.modrinth]
+mod-id = "quToUcuJ"
+version = "BzRYOX7c"

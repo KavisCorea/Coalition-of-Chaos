@@ -1,0 +1,13 @@
+name = "Arthys' RPG Armory (ARA) - Forge"
+filename = "arthys_rpg_arms-2.1.4-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ivn6yJvS/versions/QCFWRk8k/arthys_rpg_arms-2.1.4-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "f972c5e02927566b0d068d183943f15eeccad6cb38e29ce1dd48bce4a996bed84fe9b4e9c8b887a09acf6c8f393622672bbcaa1ee05af732e3b7969580cba663"
+
+[update]
+[update.modrinth]
+mod-id = "Ivn6yJvS"
+version = "QCFWRk8k"

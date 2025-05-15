@@ -1,0 +1,13 @@
+name = "Oh The Trees You'll Grow"
+filename = "Oh-The-Trees-Youll-Grow-forge-1.20.1-1.3.9.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/g8NOG5OR/versions/eAjtds7a/Oh-The-Trees-Youll-Grow-forge-1.20.1-1.3.9.jar"
+hash-format = "sha512"
+hash = "da692a7ff91af7a00267cadbc42126a4e8915582d252b1a9c2024cead50461ada71199f366bcf07c7d640117e4c107f91eeb9638316fd0f96046cf5127bc6131"
+
+[update]
+[update.modrinth]
+mod-id = "g8NOG5OR"
+version = "eAjtds7a"

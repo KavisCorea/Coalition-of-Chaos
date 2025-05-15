@@ -1,0 +1,13 @@
+name = "Cable Facades"
+filename = "cable_facades-1.20.1-Forge-1.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/twipgzWx/versions/Ozmf7C4m/cable_facades-1.20.1-Forge-1.3.1.jar"
+hash-format = "sha512"
+hash = "51d435755ff3166bfb18e71c418a644e28d222d98362e0ea3139333d7c1bfc438e54da585cf2865eb37a4d8109e60c1802a7670b556e37640d809e1806c45cb6"
+
+[update]
+[update.modrinth]
+mod-id = "twipgzWx"
+version = "Ozmf7C4m"

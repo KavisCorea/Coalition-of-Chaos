@@ -1,0 +1,13 @@
+name = "AE2: Better Villagers"
+filename = "ae_better_villagers-1.15.1.a.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9fG5wAkl/versions/qdCdDx1i/ae_better_villagers-1.15.1.a.jar"
+hash-format = "sha512"
+hash = "1fcf40d3309023848c7cf65e486e24b94b19c47028c83fd3601b62dd44c6da5391c181207cefc04ecff93c2a2d87bbdb4225fb9f39ca028f7a720f568d7270e9"
+
+[update]
+[update.modrinth]
+mod-id = "9fG5wAkl"
+version = "qdCdDx1i"

@@ -1,0 +1,13 @@
+name = "Aqua Combat"
+filename = "aquacombat 1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/k9CzFr8q/versions/xpvwkYL7/aquacombat%201.2.jar"
+hash-format = "sha512"
+hash = "ec3ee9e31e3c8f76b1aec9a3ace0f0bfbeda0d5c9db89a57bd6e9bce4284b5fe693060b66b2e3d429f3c51558c0017d2d0d25700fd67c0b2e2b22b446b86eb53"
+
+[update]
+[update.modrinth]
+mod-id = "k9CzFr8q"
+version = "xpvwkYL7"

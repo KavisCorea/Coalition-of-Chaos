@@ -1,0 +1,13 @@
+name = "Fast Item Frames"
+filename = "FastItemFrames-v20.1.2-1.20.1-Forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FsoeTIV0/versions/TMzm8upx/FastItemFrames-v20.1.2-1.20.1-Forge.jar"
+hash-format = "sha512"
+hash = "16ba7c84d18ae6dd81b3d3e2c5e1c213dd2d1a8d9c6876b1325d8de2d635db8a0b27c72ed4679136b53ef387a48d16538770200d3965ded194ba46bb29d0b017"
+
+[update]
+[update.modrinth]
+mod-id = "FsoeTIV0"
+version = "TMzm8upx"

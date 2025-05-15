@@ -1,0 +1,13 @@
+name = "A Man With Plushies"
+filename = "amwplushies-forge-1.20.1-4.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EnHNgJd3/versions/jW1bnB1G/amwplushies-forge-1.20.1-4.3.0.jar"
+hash-format = "sha512"
+hash = "d487493c4209aaf9deec3187760f7e0026155e0aa64155618dd226430407915c1645bdf0b06740189442920572b03a1b17876c2054e7607d365f25067d96f74c"
+
+[update]
+[update.modrinth]
+mod-id = "EnHNgJd3"
+version = "jW1bnB1G"

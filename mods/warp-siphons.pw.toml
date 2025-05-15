@@ -1,0 +1,13 @@
+name = "Warp Siphons"
+filename = "warp_siphons-2.1.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RlMyB1rk/versions/4ybiMSrR/warp_siphons-2.1.0-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "f31d2019ebb4ef65e2fc38aaeba865de62755d33b6289e1c703ffbd8356fda7cef0996e85fd6c8ed950dbb47a662561fb0805f032e4355c0694f79f1d6d3de9d"
+
+[update]
+[update.modrinth]
+mod-id = "RlMyB1rk"
+version = "4ybiMSrR"
