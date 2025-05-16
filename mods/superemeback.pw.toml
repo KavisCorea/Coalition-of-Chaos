@@ -1,0 +1,13 @@
+name = "Supereme Back"
+filename = "superemeback-2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pzE8fYLv/versions/oRG7xvCO/superemeback-2.2.jar"
+hash-format = "sha512"
+hash = "2ed81e265cf18cf1fe5d51170f8dcbbe826559bbeee2ff9c499b08c74ff555656c4974884e8c0a526c4dddd71b5c30f105b6241f183e655cec6deb1bceb62680"
+
+[update]
+[update.modrinth]
+mod-id = "pzE8fYLv"
+version = "oRG7xvCO"

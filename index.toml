@@ -946,6 +946,11 @@ hash = "94c18b1bc95f2fc8be17e537b893f118aec5856bb5ce5c0374387d446f56027c"
 metafile = true
 
 [[files]]
+file = "mods/jamlib.pw.toml"
+hash = "97c5e1b61bfd1a812718baa7657ccf20691697ef8a1be47972a230c209c4077c"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "7cfcef2f1142baa641151461c3e8f99fcd84f6f9f447cbc16e069a03f5aee8ca"
 metafile = true
@@ -1311,6 +1316,11 @@ hash = "ef36622697006373e3a817bf36dd7baf87a8913ffc42eb86632d9d56b60e6cd4"
 metafile = true
 
 [[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "d64cc6ea9645a980ef0911bc036fb217ff9447fccb0086379490cb36b76932e2"
+metafile = true
+
+[[files]]
 file = "mods/packed-up.pw.toml"
 hash = "977dd0ce43974d89008f3cd64249bfaa5f953657247fac4a2e3d2e13941ee67c"
 metafile = true
@@ -1506,6 +1516,11 @@ hash = "02509b37d41a8dabd84377e0371c30349657b8ba89aaa78af3c79d0e11e5a515"
 metafile = true
 
 [[files]]
+file = "mods/sort-it-out.pw.toml"
+hash = "8a55aac2bd85a04beb051fd37a1150ead61fc808df0708da4cc6405a7f466058"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
 metafile = true
@@ -1568,6 +1583,11 @@ metafile = true
 [[files]]
 file = "mods/super-factory-manager.pw.toml"
 hash = "1d58a9f31bea0a18434adb4e81a24e1469a1fadaf92039bd951ce1a8e0f006df"
+metafile = true
+
+[[files]]
+file = "mods/superemeback.pw.toml"
+hash = "605024bb5c62ebd7029655dd9c425e602825dfdb3d2220e989828881e88caf48"
 metafile = true
 
 [[files]]
@@ -1681,6 +1701,16 @@ hash = "5ba96036931e897cc0027cfd446c4851d8cb5833784da5c7925531da91d671fa"
 metafile = true
 
 [[files]]
+file = "mods/waystones-teleport-pets.pw.toml"
+hash = "b312d7ef0c6ec3b33b5bedb5f9e412230391e87bb7ba6f287f4571eb5805462b"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "e48d6500dd32cf1b0d8595b78f25aa23add3a5b2a4ff1b1f9d08b55041c53823"
+metafile = true
+
+[[files]]
 file = "mods/wfs-cave-overhaul.pw.toml"
 hash = "557ef18f5d114bbb074cc4828389b809099c44fb03a6067003fd4dd6f9e20904"
 metafile = true
@@ -1693,6 +1723,26 @@ metafile = true
 [[files]]
 file = "mods/wormhole-artifact.pw.toml"
 hash = "82c3e06e170b004a916a5ea0cf6d59d32690d72109110ee8c7a9e71342b49eab"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-map-server-utils.pw.toml"
+hash = "b14eb0d5cbc38e09ee5f32e8259f35330893236cae45a80d8b6a91ffafc053d6"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap-world-map-waystones-compatibility-forge.pw.toml"
+hash = "e288e8e67a836314a8661d6c9f7320a686d97b8c92aab4f88352cc2cbcde1687"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "b000d0545976048ed0bcd4276a47168c5eac0344fe404b07e67761d79a9c89cc"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "8415f043e1b75f3ef11c990896598389343f87be9d133edd866e466c626fb31e"
 metafile = true
 
 [[files]]
