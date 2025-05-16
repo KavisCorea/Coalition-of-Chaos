@@ -396,6 +396,11 @@ hash = "ff2c734786c306f7e415c78c90fa35bc603ff525a2d3e9babac59abfd7fe245a"
 metafile = true
 
 [[files]]
+file = "mods/comforts.pw.toml"
+hash = "db01ff332b926267e5343601473582e51cddd1dff7c0bfef0809dc9802c07480"
+metafile = true
+
+[[files]]
 file = "mods/comics-bubbles-chat.pw.toml"
 hash = "9b13fba4fa1be6a69455fa1287ad10d19093ae1dda4dd7e337cddd418b38b10b"
 metafile = true
