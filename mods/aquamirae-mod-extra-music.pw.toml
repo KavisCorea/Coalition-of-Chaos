@@ -1,6 +1,6 @@
 name = "Aquamirae - Boss Music Tweaks"
 filename = "Aquamirae Mod Boss Music Tweaks 1.20.1 v1.1.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/lwSm57fu/versions/9vuzh7ZN/Aquamirae%20Mod%20Boss%20Music%20Tweaks%201.20.1%20v1.1.0.jar"

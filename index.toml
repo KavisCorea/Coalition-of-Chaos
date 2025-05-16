@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/aquamirae-mod-extra-music.pw.toml"
-hash = "e69647a9d5243b31f037de693c9dcadc36e8cfa2ecb82d41fe2dd5ff31c0ab50"
+hash = "81482b0dc63449333e41209e489674bb89f539a566289c2709cb93b55216d860"
 metafile = true
 
 [[files]]
@@ -507,7 +507,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-ultimate-factory.pw.toml"
-hash = "540c9b485f94519e067a60d355c145b7ebf4a3c12b6bd24d1409c96effd6d726"
+hash = "bf48f9d5307353dd4d13a3859114e95d094ef11be3f04dbea059e767759fbaaa"
 metafile = true
 
 [[files]]
