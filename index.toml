@@ -496,6 +496,11 @@ hash = "17f996634516fe8a9f0699d44ef0d9bfc3eea1edd01ae5ee866424f0f3fe2713"
 metafile = true
 
 [[files]]
+file = "mods/create-escalated.pw.toml"
+hash = "881a025d44c6520a8e2cf0cf1932ba7c3b4b2ee90372f4162907622eff8b4794"
+metafile = true
+
+[[files]]
 file = "mods/create-ironworks.pw.toml"
 hash = "dcb56b802048c9d61fbf33b6c1c28935a7621f6ca12946959d772a12bd044d32"
 metafile = true
@@ -517,7 +522,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "119d501c87aef8afa8cf89ed6f17499518c21240d7781f4331e3007e57957a79"
+hash = "04eff00e4383097d9809dec31ab08976a4516fd5a2fe348b88a532507f68e6ba"
 metafile = true
 
 [[files]]
@@ -856,8 +861,8 @@ hash = "f57b760f1db9b4033c89bd46a296b48e0d6c547de4b60e724e799608dab41bef"
 metafile = true
 
 [[files]]
-file = "mods/gotta-go-fast.pw.toml"
-hash = "b703fdd14476b23eee2483ea536146ee225e0d0e41a968d4666a27a2b99d3a4c"
+file = "mods/gliders.pw.toml"
+hash = "d0f97810728b1c07977992ec5e3aa1fed8e57fb7a2003782f07850df19731a45"
 metafile = true
 
 [[files]]
@@ -933,6 +938,16 @@ metafile = true
 [[files]]
 file = "mods/infinitybuttons.pw.toml"
 hash = "5141f318430dccafca77cc5b33e8d2c093d259523063c8f28bf8e0ea056dca43"
+metafile = true
+
+[[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "ebac949a2fff95c91e87a92e5f5e91daf144c789e5765f3c4d80f096b366488e"
+metafile = true
+
+[[files]]
+file = "mods/iris-flywheel-compat.pw.toml"
+hash = "3a0cdf73f5c581d32dddca4665eb95552d6d9bcfa2e771734c7569ff6329b089"
 metafile = true
 
 [[files]]
@@ -1016,6 +1031,11 @@ hash = "b0fccdb76adbaaf58159f37a287cf8da1302069e04efb644f1f9839eec9f4a99"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-candlelight-farmcharm-compat.pw.toml"
+hash = "5b7c87c9d2c3dd65f4b6c8c0667e3f93df1db7fc56e657101bd6ff618cfa8928"
+metafile = true
+
+[[files]]
 file = "mods/lets-do-emi-compat.pw.toml"
 hash = "4671c74c9f8f5a7400f61436f0f5129aec220308ea9a58a2378a0dd097e10eed"
 metafile = true
@@ -1048,6 +1068,11 @@ metafile = true
 [[files]]
 file = "mods/lexiconfig.pw.toml"
 hash = "471f6366615d29246e35c3193359ea479925ad98eb2beb1d59f0647f9896df3d"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "5a98133891a72e041e37bc235e86d495e488387f1628fc1377e6b5169dfbb8bd"
 metafile = true
 
 [[files]]
@@ -1123,6 +1148,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-windows.pw.toml"
 hash = "bcab19f90a7b77b0c4eb0b6f30b6c43994a3305cbfae6d2768ec8cb6203ed045"
+metafile = true
+
+[[files]]
+file = "mods/mahou-tsukai.pw.toml"
+hash = "be9d35cebcf933b571ec26dd0420a0d54819518f9426f3eac1657a2b51104070"
 metafile = true
 
 [[files]]
@@ -1308,6 +1338,11 @@ metafile = true
 [[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "4ee6b38fbd604374f4703b852ebe2119c6493ae09b88f6398ab256e423bd5d4a"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "5ef885f9912ff6aa73db254b63a3cd22520f06261bc3c38e7c92f449806a9044"
 metafile = true
 
 [[files]]
@@ -1521,11 +1556,6 @@ hash = "02509b37d41a8dabd84377e0371c30349657b8ba89aaa78af3c79d0e11e5a515"
 metafile = true
 
 [[files]]
-file = "mods/sort-it-out.pw.toml"
-hash = "8a55aac2bd85a04beb051fd37a1150ead61fc808df0708da4cc6405a7f466058"
-metafile = true
-
-[[files]]
 file = "mods/spark.pw.toml"
 hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
 metafile = true
@@ -1658,6 +1688,11 @@ metafile = true
 [[files]]
 file = "mods/titanium.pw.toml"
 hash = "351aef144aa70ab4f41b3dcf044e0929631227f1ad118f22e611e13ff91fdfe4"
+metafile = true
+
+[[files]]
+file = "mods/too-fast.pw.toml"
+hash = "c24febd1fd6db1cf87dc4ba9caf9ecedba0e7326c06456dcce71c390ba98b424"
 metafile = true
 
 [[files]]
