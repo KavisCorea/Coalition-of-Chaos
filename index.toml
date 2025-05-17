@@ -376,6 +376,11 @@ hash = "8708549001bab45590a8560d7c0dd9b0859e416887f7b63b3edd2c09d05246e5"
 metafile = true
 
 [[files]]
+file = "mods/clientsort.pw.toml"
+hash = "92dc41304e261684e533d0ec0edcc3b757325c45a0e6ada978908510145abf64"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
 metafile = true
@@ -938,11 +943,6 @@ metafile = true
 [[files]]
 file = "mods/infinitybuttons.pw.toml"
 hash = "5141f318430dccafca77cc5b33e8d2c093d259523063c8f28bf8e0ea056dca43"
-metafile = true
-
-[[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "ebac949a2fff95c91e87a92e5f5e91daf144c789e5765f3c4d80f096b366488e"
 metafile = true
 
 [[files]]
