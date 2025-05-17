@@ -1231,6 +1231,11 @@ hash = "4ae1e31bcc66001fe40761f22a2d0fd8efd8e00fdf638ad527de6f0cf098e94d"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "1ccbf99a17011f1f6c3b13024e575a0cfe71047729c53db3b5bd9e8e0b28635b"
+metafile = true
+
+[[files]]
 file = "mods/modifier-key-fix.pw.toml"
 hash = "8d3a0af135b4af157bd4106a6ed47e93fdd6a5a7ded9382629987f843a8ce8d0"
 metafile = true
