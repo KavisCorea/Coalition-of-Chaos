@@ -1,13 +1,13 @@
 name = "[Let's Do] Farm & Charm"
-filename = "letsdo-farm_and_charm-forge-1.0.8.jar"
+filename = "letsdo-farm_and_charm-forge-1.0.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/HJetCzWo/versions/jfivjCdn/letsdo-farm_and_charm-forge-1.0.8.jar"
-hash-format = "sha512"
-hash = "5c066a80c28812b502e8935cf1940796dfc597a1a2c685a004a8400c7ffc1573268b76b7feab99755a4e07281bcae85c25fda0a4724f4ca484e253e38daf0d8a"
+hash-format = "sha1"
+hash = "1bb3cb3ce9387906ecbc8a9263a1bdfd58fcee42"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "HJetCzWo"
-version = "jfivjCdn"
+[update.curseforge]
+file-id = 6508214
+project-id = 1038103

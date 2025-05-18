@@ -212,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/azurelib.pw.toml"
-hash = "bc4ca404be813160087eb9e8739c79e248a340f6c21e00fa3f2235790b6db01d"
+hash = "06323ceb259d5bafc3c7be24c46c74bff99a6bca5a37093e4a59c47e521d41d9"
 metafile = true
 
 [[files]]
@@ -1037,7 +1037,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-farm-charm.pw.toml"
-hash = "01994654d589bf306e91e29f46ba6c55ddd72481d7f5380d1745ed7a23067eee"
+hash = "b819bd50f132c8de14d7122b42a6e196ada0a8de506eb1ad07eaf1a3d832b9d5"
 metafile = true
 
 [[files]]
@@ -1068,11 +1068,6 @@ metafile = true
 [[files]]
 file = "mods/little-logistics.pw.toml"
 hash = "d96ffbfb771b81f3c66e67f10479e27b43896b070ef3e78d5e3f8a6c6f3085cf"
-metafile = true
-
-[[files]]
-file = "mods/littletiles.pw.toml"
-hash = "358cbaedc59ae84d22151a12d01fe0736a28035e1ca5cf54c348d77d6bae81d4"
 metafile = true
 
 [[files]]
@@ -1457,12 +1452,12 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-config.pw.toml"
-hash = "b85e8417e797be3fdae046c487eeda8f54cdc88f3f20e462e0e229f8dd734214"
+hash = "e242387207a2538b5ccb55697174c65e549e1eb2fef9da37e1ad3734e0372b65"
 metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "5c07edd0c8fe82e85efd6c027476ba54cf98291526803b74614c3436292e4ab6"
+hash = "ef0264b7d819848f72ab2f34643306187e712965a8246e1f733e1bd39d8fd681"
 metafile = true
 
 [[files]]
@@ -1532,12 +1527,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "a81a897dd98f66cb9446607eabb0449a36cd69b1281cf3e2661dcbbbeb10ac17"
+hash = "aec1e21b7509eae0b9afe891c0279d95f6589b22fcf4a41fa76f6b86c1325671"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "02509b37d41a8dabd84377e0371c30349657b8ba89aaa78af3c79d0e11e5a515"
+hash = "e52ff3093dbfdf26ecd607136b89833c42ef0d9a0d3206f9e021b58dec350d50"
 metafile = true
 
 [[files]]
@@ -1628,6 +1623,11 @@ metafile = true
 [[files]]
 file = "mods/tectonic.pw.toml"
 hash = "23c3dddf24d8d65b2ad798247389647b47e10439dca2c46b1c958a8d2b0a1841"
+metafile = true
+
+[[files]]
+file = "mods/tempad.pw.toml"
+hash = "0296af235a0b02fcfd97237181f1e3723596f3ed15a22b017cc905cea3fd0975"
 metafile = true
 
 [[files]]
@@ -1767,7 +1767,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "8415f043e1b75f3ef11c990896598389343f87be9d133edd866e466c626fb31e"
+hash = "95650f26d33823363d0003ff801e081f4c1e9e33d88a4fc871ebc7ec33b72ac5"
 metafile = true
 
 [[files]]
