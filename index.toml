@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
+hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
 metafile = true
 
 [[files]]
@@ -1012,7 +1012,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-bakery-farm-charm-compat.pw.toml"
-hash = "370ddbbd4c4273b3554012167290dd74af25671240cd5d983538968e1e85ae40"
+hash = "36a216d0e7af93e09c4c8795be039a28277ecdadb35b6e0a6d46235d1fd3f8ef"
 metafile = true
 
 [[files]]
@@ -1037,7 +1037,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-farm-charm.pw.toml"
-hash = "b819bd50f132c8de14d7122b42a6e196ada0a8de506eb1ad07eaf1a3d832b9d5"
+hash = "124745275906375b432076ab6075c970beb1b7e94bbc88ca86c1d32201ecc919"
 metafile = true
 
 [[files]]
