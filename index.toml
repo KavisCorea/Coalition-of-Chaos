@@ -1506,11 +1506,6 @@ hash = "d230becbad974464c274e76081ff460f4b66724ef7f590cfc8fe8ff9253f2c43"
 metafile = true
 
 [[files]]
-file = "mods/simple-radio.pw.toml"
-hash = "60a3b1aa962b013468fbaf732b7b7e5e04734ed0e8f09e7eed84b2da3e01ab0a"
-metafile = true
-
-[[files]]
 file = "mods/simple-storage-network.pw.toml"
 hash = "cd9e328a1f2c02b71b3681038ea5d3fcf412ac8c82a218c223e7014f4cf923eb"
 metafile = true
