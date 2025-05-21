@@ -246,11 +246,6 @@ hash = "f6070c371bd265af686fd4949fcd8bb74e7831c7f72fc069c54674da2b78783d"
 metafile = true
 
 [[files]]
-file = "mods/better-chunk-loading-forge-fabric.pw.toml"
-hash = "7499dcfc1c246bf1ceb3b82992cc7478a9d8e29900f6c77c1c2a425665b4841d"
-metafile = true
-
-[[files]]
 file = "mods/better-combat-by-daedelus.pw.toml"
 hash = "f6a0e47845c06a47bbd3471318c2b95e83ad4e3d1759c84d0a2a3bf6437ca33a"
 metafile = true
@@ -348,11 +343,6 @@ metafile = true
 [[files]]
 file = "mods/chunk-loaders.pw.toml"
 hash = "09bcd8e486ca21121c04fe1e5bc05c5dcb2225447355a6d4d4d8073d68c552d7"
-metafile = true
-
-[[files]]
-file = "mods/chunk-sending-forge-fabric.pw.toml"
-hash = "86252c4e6701b798dac5ddef4b0fa6b6f5bdb280e83945b5b98d7c0be4441a35"
 metafile = true
 
 [[files]]
