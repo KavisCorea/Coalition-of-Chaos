@@ -316,11 +316,6 @@ hash = "c1dc583e440716e24fd8478792f730538a576e8338fcbe31f5ac9ef835fc743d"
 metafile = true
 
 [[files]]
-file = "mods/celestisynth.pw.toml"
-hash = "3b679f3cc887054c16a2e8ffbf5a18df597af318fed6821c8b8f09712516e969"
-metafile = true
-
-[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "de0ab85ea06d797c2b3b5c70c8f1fdfc1f76fb2530f792a89f4f6d9807fc649a"
 metafile = true
